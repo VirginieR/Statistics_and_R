@@ -1,0 +1,2 @@
+res1 <- read.delim("/u/ruizma/Colaborations/MOMO/Momo_volcano_plot/mTEC vs SkinEC.txt")
+
